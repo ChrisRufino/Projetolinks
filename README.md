@@ -29,5 +29,5 @@ O projeto é um agregador de links para usar como cartão de visitas online.
 Aprendizado pela rocketseat!
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./HTML/assets/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.png" width="100%">
 </p>
