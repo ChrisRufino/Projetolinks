@@ -28,6 +28,8 @@ O projeto é um agregador de links para usar como cartão de visitas online.
 
 Aprendizado pela rocketseat!
 
+Projeto https://chrisrufino.github.io/projetolinks/
+
 <p align="center">
   <img alt="projeto DevLinks" src="./assets/preview.png" width="100%">
 </p>
