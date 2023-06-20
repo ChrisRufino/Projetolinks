@@ -172,11 +172,15 @@ footer {
   display: inline;
   border: 01px;
   background: white var(--switch-bg-url) no repeat center;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
 }
 
 #caixa button:hover {
   outline: 2px solid var(--highlight-color);
+}
+#caixa button + button {
+  margin-left: 48px;
+
 }
